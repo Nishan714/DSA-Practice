@@ -24,7 +24,9 @@ The problems are organized by the core data structure or algorithm they represen
 The project is organized into folders based on the primary data structure or algorithm category. Within each of these folders, you'll find subfolders for each programming language used.
 
 Here is a sample of the directory structure:
+
 ├── Arrays/
+
 │   ├── C/
 │   │   └── problem_name.c
 │   ├── Java/
@@ -33,6 +35,7 @@ Here is a sample of the directory structure:
 │       └── problem_name.py
 
 ├── Linked_Lists/
+
 │   ├── C/
 │   ├── Java/
 │   └── Python/
@@ -43,11 +46,13 @@ Here is a sample of the directory structure:
 │   └── Python/
 
 ├── Trees/
+
 │   ├── C/
 │   ├── Java/
 │   └── Python/
 
 ├── Graphs/
+
 │   ├── C/
 │   ├── Java/
 │   └── Python/
