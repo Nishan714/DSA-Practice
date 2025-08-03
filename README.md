@@ -31,23 +31,29 @@ Here is a sample of the directory structure:
 │   │   └── ProblemName.java
 │   └── Python/
 │       └── problem_name.py
+
 ├── Linked_Lists/
 │   ├── C/
 │   ├── Java/
 │   └── Python/
+
 ├── Stacks_and_Queues/
 │   ├── C/
 │   ├── Java/
 │   └── Python/
+
 ├── Trees/
 │   ├── C/
 │   ├── Java/
 │   └── Python/
+
 ├── Graphs/
 │   ├── C/
 │   ├── Java/
 │   └── Python/
+
 └── README.md
+
 Each solution file includes:
 - A brief description of the problem.
 - The algorithm or approach used to solve it.
@@ -67,16 +73,7 @@ To explore the solutions, simply browse the folders. For example, to find a solu
 
 ## Progress & Statistics
 
-_**This is an optional but highly recommended section.** You can use this space to track your progress. For example:_
-
-- **Total Problems Solved:** 50+
-- **Platforms:** LeetCode, HackerRank
-- **Top 5 most recent problems solved:**
-    1.  [Problem Name 1](link-to-file) (Language)
-    2.  [Problem Name 2](link-to-file) (Language)
-    3.  ...
-
-You can also use shields or badges to display your progress from platforms like LeetCode.
+This section will be updated as I add more solutions to the repository. I'll use this space to track my progress, document the platforms I've used, and highlight some of the key problems I've solved.
 
 ## License
 
